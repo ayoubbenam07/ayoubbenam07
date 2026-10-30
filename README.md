@@ -60,24 +60,13 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <!-- Stats & Top Languages (Fixed parameters & using stable mirror) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ayoubbenam07&show_icons=true&theme=tokyonight&hide_border=true" alt="Ayoub's GitHub Stats" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubbenam07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="155" />
+  <!-- Contribution Activity Wave Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayoubbenam07&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </div>
 
 <br />
 
 <div align="center">
-  <!-- Contribution Streak (Working cleanly) -->
+  <!-- Contribution Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubbenam07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubbenam07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <sub>Designed with intent by Mohamed Ayoub Benamrouche</sub>
 </div>
