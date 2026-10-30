@@ -5,7 +5,7 @@
 ### AI Engineering Student at [ENSIA](https://www.ensia.edu.dz) & Full-Stack Developer
 **Algiers, Algeria**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ayoubbenamrouche.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ayoub-benamrouche.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ayoub-benamrouche-69707b32a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayoubbenamrouche75@gmail.com)
 
@@ -60,8 +60,16 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayoubbenam07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ayoub's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubbenam07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <!-- Stats & Top Languages (Fixed parameters & using stable mirror) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ayoubbenam07&show_icons=true&theme=tokyonight&hide_border=true" alt="Ayoub's GitHub Stats" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubbenam07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="155" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Contribution Streak (Working cleanly) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubbenam07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
